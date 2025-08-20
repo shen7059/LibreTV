@@ -153,8 +153,8 @@ const API_SITES = {
         adult: true
     },
     lsb: {
-        api: 'https://apilsbzy1.com',
-        name: 'lsb资源',
+        api: 'https://dadiapi.com/api.php/provide/vod',
+        name: '大地资源',
         adult: true
     },
     huangcang: {
