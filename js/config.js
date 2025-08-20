@@ -138,7 +138,7 @@ const API_SITES = {
         adult: true
     },
     bwzy: {
-        api: 'https://api.bwzym3u8.com',
+        api: 'https://api.bwzyz.com/api.php/provide/vod/at/xml/',
         name: '百万资源',
         adult: true
     },
