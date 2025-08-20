@@ -143,8 +143,8 @@ const API_SITES = {
         adult: true
     },
     souav: {
-        api: 'https://api.souavzy.vip',
-        name: 'souav资源',
+        api: 'https://thzy1.me/api.php/provide/vod',
+        name: '桃花源',
         adult: true
     },
     r155: {
